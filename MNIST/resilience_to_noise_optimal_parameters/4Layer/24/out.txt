@@ -1,0 +1,10 @@
+1Initial cost function: ⟨C⟩ = 1.72258524
+2Initial cost function: ⟨C⟩ = 1.20362796
+3Initial cost function: ⟨C⟩ = 1.20831830
+4Initial cost function: ⟨C⟩ = 1.44176424
+5Initial cost function: ⟨C⟩ = 1.11448305
+6Initial cost function: ⟨C⟩ = 1.28735368
+7Initial cost function: ⟨C⟩ = 1.44392227
+8Initial cost function: ⟨C⟩ = 1.14405074
+9Initial cost function: ⟨C⟩ = 1.51099631
+10Initial cost function: ⟨C⟩ = 1.14530482
